@@ -45,10 +45,4 @@ Arduino system that counts pressure cooker whistles via sound sensor and auto-sh
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad1tya-95&show_icons=true&theme=default)
-
----
-
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/aditya-makham)
