@@ -23,16 +23,16 @@
 
 ## 📌 Featured Projects
 
-### 🔐 [SentinelGate](https://github.com/Ad1tya-95/sentinelgate)
+### 🔐 [SentinelGate](https://github.com/Ad1tya-95/Sentinel-gate)
 IoT-based smart access control system — ESP32, RFID + keypad two-factor auth, FreeRTOS multitasking, Firebase real-time logging, brute-force detection, OTA updates, live analytics dashboard.
 
-### 🏦 [Mini Banking System](https://github.com/Ad1tya-95/mini-banking-system-c)
+### 🏦 [Mini Banking System](https://github.com/Ad1tya-95/Mini-Banking-System)
 Console-based banking system in C — accounts, transactions, admin panel, persistent storage via binary file I/O.
 
-### 💰 [Expense Tracker](https://github.com/Ad1tya-95/expense-tracker-cli)
+### 💰 [Expense Tracker](https://github.com/Ad1tya-95/Expense-Tracker-CLI)
 Python CLI expense tracker with SQLite storage and Google Maps mileage tracking.
 
-### 🍲 [Pressure Cooker Whistle Counter](https://github.com/Ad1tya-95/cooker-whistle-counter)
+### 🍲 [Pressure Cooker Whistle Counter](https://github.com/Ad1tya-95/Cooker-Whistle-Counter)
 Arduino system that counts pressure cooker whistles via sound sensor and auto-shuts off the stove.
 
 ---
