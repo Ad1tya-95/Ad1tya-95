@@ -138,7 +138,7 @@ AI & Data
 
 ---
 
-## 🏗️ Nexus Intelligence Labs
+## 🏗️ [Nexus Intelligence Labs](https://github.com/Nexus-Intelligence-Labs)
 
 **Nexus Intelligence Labs** is a student-led technology organization I founded, where a team works together on projects spanning **cybersecurity, AI/ML, software engineering and security-focused systems**.
 
