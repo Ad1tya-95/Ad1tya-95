@@ -140,9 +140,7 @@ AI & Data
 
 ## 🏗️ [Nexus Intelligence Labs](https://github.com/Nexus-Intelligence-Labs)
 
-**Nexus Intelligence Labs** is a student-led technology organization I founded, where a team works together on projects spanning **cybersecurity, AI/ML, software engineering and security-focused systems**.
-
-As **Founder & Team Lead**, I set technical direction, lead on backend security and frontend implementation, and coordinate the team — while actively building my own skills in AI/ML alongside them.
+Nexus Intelligence Labs is the team I founded and led for our Smart India Hackathon submission — the AI Criminal Network Analysis project above. I brought the team together, set technical direction, and led on backend security and frontend implementation, while building my own AI/ML skills alongside the team.
 
 ---
 
